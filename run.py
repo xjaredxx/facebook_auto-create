@@ -1,1 +1,1 @@
-import Jared_auto_createfb
+import Jared_auto_createfb.auto()
