@@ -1,2 +1,2 @@
-import Jared_auto_create.abi3
-Jared_auto_create.abi3.method()
+import Jared_auto_create
+Jared_auto_create.method()
